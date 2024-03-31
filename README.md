@@ -1,5 +1,5 @@
-# web3-template
-This is a template for creating websites that connect to smart contracts using the web3.js library.
+# Web3 template
+This is a template for creating web3 sites that connect to smart contracts using the web3.js library.
 
 ## Project Structure
 
