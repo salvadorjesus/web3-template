@@ -7,7 +7,7 @@ The project has the following structure:
 
 ### index.html
 
-The [`index.html`](index.html) file is the main page of the web application. It includes references to the `web3`, `crypto-js`, and `ethers` libraries through `<script>` tags. It also refers to the [`script.js`](script.js) file, which contains the application logic.
+The [`index.html`](index.html) file is the main page of the web application. It includes references to the `web3` and `ethers` libraries through `<script>` tags. It also refers to the [`script.js`](script.js) file, which contains the application logic.
 
 ### script.js
 
